@@ -3,4 +3,5 @@ My First Swift Calculator App
 
 
 App Screen 
-<img src="(https://user-images.githubusercontent.com/55629683/120668856-8a0ac700-c497-11eb-87e3-98fcb7a0ea55.png)" height="550" width="600">
+<img src="![Simulator Screen Shot - iPhone 11 - 2021-06-03 at 18 12 31](https://user-images.githubusercontent.com/55629683/120669336-08676900-c498-11eb-8d9c-a5625c9f3fdc.png)
+" height="550" width="600">
