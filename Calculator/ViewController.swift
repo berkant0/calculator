@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Calculator
 //
-//  Created by Gappze - iOS on 3.06.2021.
+//  Created by Berkant Dagtekin - iOS on 3.06.2021.
 //
 
 import UIKit
